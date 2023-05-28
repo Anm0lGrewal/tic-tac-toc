@@ -1,6 +1,10 @@
 # tic_tac_toe
-
 A new Flutter project.
+
+# Screenshot 
+<img width="441" alt="Screenshot 2023-05-28 at 1 58 56 PM" src="https://github.com/Anm0lGrewal/tic-tac-toc/assets/93851911/ea477771-7450-4cda-bd57-6e230781c0c7"> <img width="441" alt="Screenshot 2023-05-28 at 2 02 56 PM" src="https://github.com/Anm0lGrewal/tic-tac-toc/assets/93851911/2e778d6b-8637-4f22-ad72-2acf6a6ca2c7">
+
+
 
 ## Getting Started
 
